@@ -10,7 +10,7 @@ Máscara facial: não
 
 # JSON
 
-'''
+```
 [
   {
     "recognitionModel": "recognition_01",
@@ -263,4 +263,4 @@ Máscara facial: não
     }
   }
 ]
- '''
+ ```
