@@ -1,4 +1,4 @@
-# Desafio de Projeto DIO: Azzuure Cognite Services
+# Desafio de Projeto DIO: Azure Cognite Services
 
 📕DOC: https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-face-detection
        https://learn.microsoft.com/en-us/azure/ai-services/computer-vision/concept-ocr
