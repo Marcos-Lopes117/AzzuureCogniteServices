@@ -5,7 +5,8 @@
 
 Rosto nº 1
 Máscara facial: não
-Cara #2
+
+Rosto #2
 Máscara facial: não
 
 # JSON
