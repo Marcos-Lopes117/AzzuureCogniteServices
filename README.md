@@ -5,7 +5,9 @@
        
 # Requisitos:
 1- Criar um serviço de IA no portal azure com suas credenciais (https://portal.azure.com/).
+
 2- Criar um Nome para o serviço.
+
 3- Criar um grupo de recursos, ou selecionar, caso já possua um.
 
 # Passo 1
